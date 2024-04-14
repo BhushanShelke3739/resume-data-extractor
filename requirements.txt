@@ -1,4 +1,4 @@
-PyPDF2==1.26.0
+PyPDF2==3.0.1
 openpyxl==3.0.7
 python-docx==0.8.11
 docx2pdf==0.1.7
